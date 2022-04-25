@@ -1,0 +1,59 @@
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.csproj.AssemblyReference.cache
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.AssemblyInfoInputs.cache
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.AssemblyInfo.cs
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.csproj.CoreCompileInputs.cache
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.MvcApplicationPartsAssemblyInfo.cs
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.MvcApplicationPartsAssemblyInfo.cache
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\appsettings.Development.json
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\appsettings.json
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\producer.exe
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\producer.deps.json
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\producer.runtimeconfig.json
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\producer.runtimeconfig.dev.json
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\producer.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\ref\producer.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\producer.pdb
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\scopedcss\bundle\producer.styles.css
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\staticwebassets\producer.StaticWebAssets.Manifest.cache
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.RazorTargetAssemblyInfo.cache
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.csproj.CopyComplete
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\ref\producer.dll
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.pdb
+C:\Yang Changjun\Microservice Training\Intermediate\Revision\18 April revision\producer\obj\Debug\net5.0\producer.genruntimeconfig.cache
+C:\assessment\Q2A\producer\bin\Debug\net5.0\appsettings.Development.json
+C:\assessment\Q2A\producer\bin\Debug\net5.0\appsettings.json
+C:\assessment\Q2A\producer\bin\Debug\net5.0\producer.exe
+C:\assessment\Q2A\producer\bin\Debug\net5.0\producer.deps.json
+C:\assessment\Q2A\producer\bin\Debug\net5.0\producer.runtimeconfig.json
+C:\assessment\Q2A\producer\bin\Debug\net5.0\producer.runtimeconfig.dev.json
+C:\assessment\Q2A\producer\bin\Debug\net5.0\producer.dll
+C:\assessment\Q2A\producer\bin\Debug\net5.0\ref\producer.dll
+C:\assessment\Q2A\producer\bin\Debug\net5.0\producer.pdb
+C:\assessment\Q2A\producer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\assessment\Q2A\producer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\assessment\Q2A\producer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\assessment\Q2A\producer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\assessment\Q2A\producer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.csproj.AssemblyReference.cache
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.AssemblyInfoInputs.cache
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.AssemblyInfo.cs
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.csproj.CoreCompileInputs.cache
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.MvcApplicationPartsAssemblyInfo.cs
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.MvcApplicationPartsAssemblyInfo.cache
+C:\assessment\Q2A\producer\obj\Debug\net5.0\scopedcss\bundle\producer.styles.css
+C:\assessment\Q2A\producer\obj\Debug\net5.0\staticwebassets\producer.StaticWebAssets.Manifest.cache
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.RazorTargetAssemblyInfo.cache
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.csproj.CopyComplete
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.dll
+C:\assessment\Q2A\producer\obj\Debug\net5.0\ref\producer.dll
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.pdb
+C:\assessment\Q2A\producer\obj\Debug\net5.0\producer.genruntimeconfig.cache
+C:\assessment\Q2A\producer\bin\Debug\net5.0\Newtonsoft.Json.dll
